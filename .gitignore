@@ -1,16 +1,29 @@
-﻿venv/
+# Virtual Environments
+venv/
 .venv/
+env/
+ENV/
+
+# Python Cache & Compiled Files
 __pycache__/
 *.py[cod]
+*$py.class
 .pytest_cache/
+
+# IDE & Editor Settings
 .idea/
 .vscode/
 
+# Project Specific Data & Temp Artifacts
 data/
+temp/
+*.db
+*.pdf
+temp_*
 
+# Log Files
 *.log
 
+# System Files
 .DS_Store
 Thumbs.db
-
-temp/
