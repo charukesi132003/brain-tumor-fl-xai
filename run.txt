@@ -1,0 +1,13 @@
+cd C:\Users\charu\Downloads\brain-tumor-fl-xai-main\brain-tumor-fl-xai-main
+
+
+
+
+
+
+
+
+
+
+
+python app.py
